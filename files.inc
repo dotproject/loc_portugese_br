@@ -1,0 +1,22 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Add File"=>"Adicionar Arquivo",
+"All Projects"=>"Todos os Projetos",
+"Date"=>"Data",
+"Edit File"=>"Editar Arquivo",
+"File Name"=>"Nome de Arquivo",
+"New File"=>"Novo Arquivo",
+"Size"=>"Tamanho",
+"Type"=>"Tipo",
+"Upload File"=>"Enviar Arquivo",
+"Uploaded By"=>"Arquivo Enviado por",
+"Version"=>"Versão",
+"add new file"=>"adicionar novo arquivo",
+"delete file"=>"apagar arquivo",
+"download"=>"download",
+"fileIdError"=>" 	Erro de interpretação no arquivo (An invalid file handle was passed to the function)",
+"files list"=>"lista de arquivos",
+"filesDelete"=>"Tem certeza de que deseja apagar este arquivo?",
+"new file"=>"novo arquivo",
+"select task"=>"selecionar tarefa",

@@ -1,0 +1,20 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Budget"=>"Orçamento",
+"Company Owner"=>"Empresa Responsável",
+"Departamento"=>"Departamento",
+"Edit Company"=>"Editar Empresa",
+"Invalid Company ID"=>"Empresa Inválida",
+"Novo Departamento"=>"",
+"Started"=>"Iniciado",
+"Status"=>"Status",
+"View Company"=>"Visualizar Empresa",
+"companies list"=>"lista de empresas",
+"company list"=>"lista da empresa",
+"companyDelete"=>"Tem certeza que deseja apagar esta empresa?",
+"companyValidName"=>"Por favor, informe um nome de empresa válido",
+"delete company"=>"apagar empresa",
+"edit this company"=>"editar empresa",
+"nova compania"=>"nova empresa",
+"view this company"=>"visualizar empresa",
